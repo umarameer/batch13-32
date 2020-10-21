@@ -1,0 +1,10 @@
+a{
+    background-color:rgb(80, 255, 89);
+}
+a:hover{
+    background-color: yellow;
+}
+/*
+table , border, width 100%
+header row bgcolor>grey=>mouse =>yellow
+rest of the row => green=>mose over=> blue

@@ -1,0 +1,23 @@
+.student_tbl{
+/* border: black;*/
+width: 100%;
+border-color: red;
+border-collapse: collapse;
+}
+
+.head{
+    background-color: green;
+}
+.head:hover{
+    background-color: yellow;
+
+
+}
+    
+.rows:nth-child(even){
+    background-color: green;
+}
+.rows:hover:nth-child(even){
+    background-color: blue;
+        }
+    
